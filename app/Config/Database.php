@@ -28,7 +28,7 @@ class Database extends Config
         'DSN'          => '',
         'hostname'     => 'localhost',
         'username'     => 'root',
-        'password'     => '',
+        'password'     => '1234567890',
         'database'     => 'chef_table7',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
